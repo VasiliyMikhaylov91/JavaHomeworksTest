@@ -9,7 +9,7 @@ public class Main {
     }
 
     public static Integer[] getArray() {
-        int length = 100;
+        int length = 1000;
         Integer[] res = new Integer[length];
         Random rm = new Random();
         for (int i = 0; i < length; i++) {
